@@ -1,0 +1,18 @@
+name = "FlowFarmOpt"
+uuid = "72c81f4e-6e6f-4057-8253-82b9e3a0ec02"
+authors = ["Wesley Holt <wesleyjholt@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+FLOWMath = "6cb5d3fb-0fe8-4cc2-bd89-9fe0b19a99d3"
+FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
+FlowFarm = "eb2d4cfc-2064-11ea-0a1c-63d372e6a848"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+GridInterpolations = "bb4c363b-b914-514b-8517-4eb369bc008a"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+SNOW = "105f6ee8-0889-46b1-9d4b-65e03cbc8f13"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
